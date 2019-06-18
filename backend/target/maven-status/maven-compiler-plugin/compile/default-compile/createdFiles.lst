@@ -1,0 +1,7 @@
+com\plugga\pluggarestapi\rest\UserController.class
+com\plugga\pluggarestapi\service\UserServiceImpl.class
+com\plugga\pluggarestapi\PluggaRestApiApplication.class
+com\plugga\pluggarestapi\dao\UserDAO.class
+com\plugga\pluggarestapi\entity\User.class
+com\plugga\pluggarestapi\dao\UserDAOHibernateImpl.class
+com\plugga\pluggarestapi\service\UserService.class
