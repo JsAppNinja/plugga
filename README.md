@@ -12,5 +12,5 @@
 ### Misc
 * Docker
 
-## Author
+## Developer
 * Jun Cheong
