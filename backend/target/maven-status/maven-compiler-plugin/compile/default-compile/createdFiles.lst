@@ -1,7 +1,8 @@
-com\plugga\pluggarestapi\rest\UserController.class
-com\plugga\pluggarestapi\service\UserServiceImpl.class
-com\plugga\pluggarestapi\PluggaRestApiApplication.class
-com\plugga\pluggarestapi\dao\UserDAO.class
-com\plugga\pluggarestapi\entity\User.class
-com\plugga\pluggarestapi\dao\UserDAOHibernateImpl.class
-com\plugga\pluggarestapi\service\UserService.class
+com\plugga\backend\BackendApplication.class
+com\plugga\backend\service\UserService.class
+com\plugga\backend\entity\User.class
+com\plugga\backend\rest\UserController.class
+com\plugga\backend\dao\UserDAO.class
+com\plugga\backend\dao\UserDAOHibernateImpl.class
+com\plugga\backend\service\UserServiceImpl.class
+com\plugga\backend\TestController.class

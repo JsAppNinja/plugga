@@ -1,7 +1,8 @@
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\service\UserServiceImpl.java
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\dao\UserDAOHibernateImpl.java
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\entity\User.java
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\PluggaRestApiApplication.java
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\rest\UserController.java
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\dao\UserDAO.java
-C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\pluggarestapi\service\UserService.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\dao\UserDAO.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\rest\UserController.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\dao\UserDAOHibernateImpl.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\service\UserService.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\TestController.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\BackendApplication.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\entity\User.java
+C:\Users\Owner\Plugga\backend\src\main\java\com\plugga\backend\service\UserServiceImpl.java

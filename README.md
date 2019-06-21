@@ -1,2 +1,16 @@
 # Plugga
-A flashcard app
+* A flashcard app
+
+## Technologies
+### Front-End
+* React.js
+### Back-End
+* Spring
+* MySQL
+### Android
+* Kotlin
+### Misc
+* Docker
+
+## Author
+* Jun Cheong
